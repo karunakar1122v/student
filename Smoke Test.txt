@@ -1,0 +1,1 @@
+java -jar C:\Selenium\SeleniumStandalone\selenium-server-standalone-2.39.0.jar -multiWindow -htmlSuite '*firefox' http://vCHNILADPSCI-09:8080/BookStore C:\Selenium\NewBookAppSelenium\TestSuitForNewBookApp.html C:\Selenium\NewBookAppSelenium\TestResults.html -port 4445
